@@ -85,3 +85,6 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 ---
 
 This program is an excellent starting point for anyone looking to grasp the fundamentals of file handling in C++!
+
+#### **OUTPUT**
+![Screenshot 2024-12-31 232215](https://github.com/user-attachments/assets/b396950f-d6a6-4ed7-b1fb-5b145003fbf4)
